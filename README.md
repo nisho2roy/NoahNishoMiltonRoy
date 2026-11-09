@@ -68,7 +68,7 @@ open_to:      Collaborations · Open Source · Knowledge sharing
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/codeninjavik/MYRA-AI-ASSISTANT-"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=codeninjavik&repo=MYRA-AI-ASSISTANT-&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MYRA AI Assistant" /></a>
+  <a href="/MYRA-AI-ASSISTANT-"><img height="130"username==MYRA-AI-ASSISTANT-&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MYRA AI Assistant" /></a>
   <a href="https://github.com/codeninjavik/lia-build-guide"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=codeninjavik&repo=lia-build-guide&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="LIA build guide" /></a>
 </p>
 <p align="center">
