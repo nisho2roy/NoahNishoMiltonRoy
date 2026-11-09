@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Vikash Kumar - Full-Stack Developer and AI/ML Enthusiast">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Nisho Milton Roy- Full-Stack Developer and AI/ML Enthusiast">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0a0a18"/><stop offset="1" stop-color="#15102e"/>
@@ -42,7 +42,7 @@
       <g class="o2"><circle cx="830" cy="150" r="160"/><circle cx="990" cy="150" r="7" fill="#f472b6" stroke="none" filter="url(#glow)"/></g>
     </g>
     <text class="hi" x="60" y="105">Hello, world &#8212; main hoon</text>
-    <text class="name" x="56" y="195" fill="url(#name)" filter="url(#glow)">Vikash Kumar</text>
+    <text class="name" x="56" y="195" fill="url(#name)" filter="url(#glow)">Nisho Milton Roy</text>
     <text class="role" x="60" y="248">FULL-STACK DEVELOPER  &#183;  AI / ML ENTHUSIAST</text>
   </g>
   <rect x="0.5" y="0.5" width="999" height="299" rx="24" fill="none" stroke="#ffffff" stroke-opacity="0.14"/>
